@@ -12,7 +12,7 @@ This version uses RxJS version 6: [https://github.com/ReactiveX/rxjs](https://gi
 
 ### Installing
 
-RxJS Boilerplate requires [Node.js] v4+ to work properly.
+RxJS Boilerplate requires [Node.js](https://nodejs.org/en/) v6.14.0+ to work properly.
 
 Install the RxJS Boilerplate dependencies by running:
 
