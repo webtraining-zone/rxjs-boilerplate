@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "webpack --mode=development",
     "prod": "webpack --mode=production",
-    "watch": "webpack --watch --progress --mode=development"
+    "watch": "webpack --watch --progress --mode=development",
+    "start": "live-server ."
   },
   "keywords": [
     "rxjs",
